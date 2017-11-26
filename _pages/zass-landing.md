@@ -1,0 +1,21 @@
+---
+ID: 956
+post_title: Zass Landing
+author: administrador
+post_excerpt: ""
+layout: page
+permalink: http://www.bulatee.com/zass-landing/
+published: true
+post_date: 2017-03-16 14:31:11
+---
+[vc_row full_width="stretch_row" full_height="yes" content_placement="middle" general_row_align="zass-align-center" fixed_background="yes" point_down="yes" css=".vc_custom_1489714873945{margin-bottom: 0px !important;padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(https://www.althemist.com/zass/wp-content/uploads/2017/03/back_landing.jpg?id=1020) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_single_image image="236" img_size="140x140" alignment="center" css_animation="appear" css=".vc_custom_1489713980198{margin-bottom: 10px !important;}"][vc_column_text css=".vc_custom_1489711869716{margin-bottom: 10px !important;}"]
+<h2><span style="color: #ffffff;">The Only Theme You'll Ever Need for</span></h2>
+[/vc_column_text][zass_typed txt_before_typed="Your Handmade" rotating_strings="Blog,Shop,Portfolio" typed_style="h2" typed_alignment="zass-typed-centered" static_text_color="#ffffff" typed_text_color="#f3a395"][/vc_column][/vc_row][vc_row css=".vc_custom_1489714359793{margin-bottom: 0px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #ffffff !important;}"][vc_column css=".vc_custom_1482927683308{padding-top: 0px !important;}"][vc_column_text css=".vc_custom_1489714194947{margin-bottom: 60px !important;}"]
+<h5 style="text-align: center;">Zass is a Beautiful WordPress / WooCommerce theme made especially with handmade artists and artisans in mind. It's suitable for all kind of information, portfolio or blog sites, but it's incredible, custom built e-commerce features are what makes it stand out from the crowd.</h5>
+[/vc_column_text][vc_column_text css_animation="appear" css=".vc_custom_1489714935972{margin-bottom: 80px !important;}"]
+<h2 style="text-align: center;">Beautiful Homepages</h2>
+[/vc_column_text][vc_row_inner css=".vc_custom_1489712009016{margin-bottom: 35px !important;}"][vc_column_inner width="1/3"][zass_banner title="Main Home" subtitle="Default Home Page" image_id="996" link="https://www.althemist.com/zass" button_text="LOAD PAGE"][/vc_column_inner][vc_column_inner width="1/3"][zass_banner title="Left Header" subtitle="Hero Video Section" image_id="998" link="https://www.althemist.com/zass/home-left-header/" button_text="LOAD PAGE"][/vc_column_inner][vc_column_inner width="1/3"][zass_banner title="Portfolio Home" subtitle="With Fullscreen Background" image_id="1001" link="https://www.althemist.com/zass/home-portfolio/?logo_menu_position=null" button_text="LOAD PAGE"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][zass_banner title="Banners Home" subtitle="With Product Slider" image_id="1005" link="https://www.althemist.com/zass/home-sections/" button_text="LOAD PAGE"][/vc_column_inner][vc_column_inner width="1/3"][zass_banner title="Personal Home" subtitle="With Animated Elements" image_id="1008" link="https://www.althemist.com/zass/home-personal/" button_text="LOAD PAGE"][/vc_column_inner][vc_column_inner width="1/3"][zass_banner title="Coming Soon" subtitle="Detailed Hand Crafted Goods" image_id="591" link="#" button_text="LOAD PAGE"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" general_row_align="zass-align-center" point_down="yes" css=".vc_custom_1489714683747{margin-bottom: 0px !important;padding-top: 110px !important;padding-bottom: 110px !important;background-color: #f0eeea !important;}"][vc_column][vc_column_text css_animation="appear" css=".vc_custom_1489714945994{margin-bottom: 10px !important;}"]
+<h2 style="text-align: center;">Make it Yours</h2>
+[/vc_column_text][vc_column_text css=".vc_custom_1489714631630{margin-bottom: 40px !important;}"]
+<h5 style="text-align: center;">Available Exclusively on ThemeForest.</h5>
+[/vc_column_text][vc_btn title="Purchase - $49" style="outline-custom" outline_custom_color="#f28f7d" outline_custom_hover_background="" outline_custom_hover_text="#ce7d6b" shape="round" link="url:%23||target:%20_blank|"][/vc_column][/vc_row]

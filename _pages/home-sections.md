@@ -1,0 +1,17 @@
+---
+ID: 852
+post_title: Home Banner Wall
+author: administrador
+post_excerpt: ""
+layout: page
+permalink: http://www.bulatee.com/home-sections/
+published: true
+post_date: 2017-03-14 17:30:59
+---
+[vc_row full_width="stretch_row_content" css=".vc_custom_1489713180433{margin-bottom: 0px !important;padding-top: 20px !important;padding-bottom: 60px !important;background-color: #ffffff !important;}"][vc_column width="1/4"][zass_banner alignment="banner-bottom-left" type="etline" icon_etline="icon-gift" title="Gift Ideas" subtitle="Personalized With Love" image_id="888" link="#" color_scheme="zass-banner-dark" appear_animation="zass-from-right" css=".vc_custom_1489518663009{margin-bottom: 35px !important;}"][zass_banner alignment="banner-center-left" type="etline" icon_etline="icon-strategy" title="Souvenirs" subtitle="Personalized With Love" image_id="898" link="#" color_scheme="zass-banner-dark" appear_animation="zass-from-right"][/vc_column][vc_column width="1/2"][zass_banner type="etline" icon_etline="icon-heart" title="Home Decor" title_size="zass_banner_big" subtitle="Made With Love &amp; Passion" image_id="873" link="#" color_scheme="zass-banner-dark" appear_animation="zass-fade"][/vc_column][vc_column width="1/4"][zass_banner alignment="banner-center-right" type="etline" icon_etline="icon-happy" title="Kids &amp; Baby" subtitle="Personalized With Love" image_id="893" link="#" color_scheme="zass-banner-dark" appear_animation="zass-from-left" css=".vc_custom_1489679118462{margin-bottom: 35px !important;}"][zass_banner alignment="banner-top-right" type="etline" icon_etline="icon-lightbulb" title="Accessories" subtitle="Personalized With Love" image_id="891" link="#" color_scheme="zass-banner-dark" appear_animation="zass-from-left"][/vc_column][/vc_row][vc_row full_width="stretch_row" fixed_background="yes" point_down="yes" css=".vc_custom_1489593655129{margin-bottom: 0px !important;padding-top: 130px !important;padding-bottom: 150px !important;background: #f5f4f1 url(https://www.althemist.com/zass/wp-content/uploads/2016/12/rose-overlay.png?id=321) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column][vc_column_text css=".vc_custom_1489521095936{margin-bottom: 10px !important;}"]
+<h2 style="text-align: center;">Deals of The Day</h2>
+[/vc_column_text][vc_column_text css=".vc_custom_1489521157111{margin-bottom: 60px !important;}"]
+<h5 style="text-align: center;">Handpicked Products on Sale</h5>
+[/vc_column_text][zass_woo_products_slider orderby="rand" ids="26, 64"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1485428288953{margin-bottom: 0px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #ffffff !important;}"][vc_column][vc_column_text css=".vc_custom_1489519700798{margin-bottom: 60px !important;}"]
+<h2 style="text-align: center;">New Arrivals</h2>
+[/vc_column_text][recent_products per_page="8" columns="4" orderby="" order=""][vc_btn title="View All Products" style="outline-custom" outline_custom_color="#f3a395" outline_custom_hover_background="" outline_custom_hover_text="#f3a395" shape="round" align="center" link="url:https%3A%2F%2Fwww.althemist.com%2Fzass%2Fshop%2F|||" css=".vc_custom_1488387723479{margin-top: 60px !important;}"][/vc_column][/vc_row]
