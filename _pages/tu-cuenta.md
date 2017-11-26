@@ -4,7 +4,7 @@ post_title: Tu Cuenta
 author: administrador
 post_excerpt: ""
 layout: page
-permalink: http://www.bulatee.com/checkout/
+permalink: http://www.bulatee.com/tu-cuenta/
 published: true
 post_date: 2016-12-22 08:52:16
 ---
