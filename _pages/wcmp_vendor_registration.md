@@ -1,6 +1,6 @@
 ---
 ID: 11
-post_title: Vendor Registration
+post_title: Registra tu empresa
 author: administrador
 post_excerpt: ""
 layout: page
