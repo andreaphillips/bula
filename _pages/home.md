@@ -12,7 +12,7 @@ post_date: 2016-12-22 10:28:00
 <h2><span style="color: #ffffff;">Let's Find Something You Love</span></h2>
 [/vc_column_text][vc_column_text]
 <h5><span style="color: #ffffff;">...and personalize it to be 100% yours.</span></h5>
-[/vc_column_text][vc_btn title="View All Products" style="custom" custom_background="#ffffff" custom_text="#f3a395" shape="round" align="center"][/vc_tta_section][vc_tta_section title="Section 2" tab_id="1486722578482-5d5b9ed0-960e"][vc_single_image image="236" img_size="130x130" alignment="center" css_animation="appear" css=".vc_custom_1485422074306{margin-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1488791015711{margin-bottom: 10px !important;}"]
+[/vc_column_text][vc_btn title="Ver todos los productos" style="custom" custom_background="#ffffff" custom_text="#f3a395" shape="round" align="center" link="url:http%3A%2F%2Fwww.bulatee.com%2Fshop-full-width%2F|||"][/vc_tta_section][vc_tta_section title="Section 2" tab_id="1486722578482-5d5b9ed0-960e"][vc_single_image image="236" img_size="130x130" alignment="center" css_animation="appear" css=".vc_custom_1485422074306{margin-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1488791015711{margin-bottom: 10px !important;}"]
 <h2><span style="color: #ffffff;">Best Handmade Goods</span></h2>
 [/vc_column_text][vc_column_text]
 <h5><span style="color: #ffffff;">Made with love and passion.</span></h5>
